@@ -23,7 +23,7 @@ Getting Bluetooth going on the Kenwood TH-D74 was a bit challenging, and informa
 
 8. Set DV/DR to Bluetooth, Menu->984.
 
-9. On your computer, make sure Bluetooth is turned on. CLick Add Bluetooth device, choose Bluetooth in the Add a device dialog.
+9. On your computer, make sure Bluetooth is turned on. Click Add Bluetooth device, choose Bluetooth in the Add a device dialog.
 
 10. On your radio, enter Pairing Mode, Menu->934.
 
