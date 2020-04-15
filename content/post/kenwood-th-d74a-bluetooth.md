@@ -2,7 +2,6 @@
 title: "Kenwood TH-D74 Bluetooth Setup"
 date: 2020-04-14T20:42:57-04:00
 type: "post"
-draft: true
 ---
 
 Getting Bluetooth going on the Kenwood TH-D74 was a bit challenging, and information about this radio seems to be spread across multiple videos, blogs, forums, and mailing lists. Here are the steps I took to get Bluetooth working to be able to use the KISS TNC from Windows 10.
