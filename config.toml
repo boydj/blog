@@ -1,18 +1,32 @@
 languageCode = "en-us"
-title = "jdb's technical notes"
-theme = "hugo-dusk"
+title = "josh's technical notes"
+theme = "mediumish"
 baseURL = "https://boydj.github.io/blog/"
 canonifyURLS = true
 relativeURLS = true
-
-[author]
-  name = "Josh Boyd"
+summaryLength = 25
+copyright = "josh boyd - all rights reserved"
+description = "my notes and ramblings on technical topics i don't want to forget about"
+disqusShortname = ""
+googleAnalytics = ""
 
 [params]
+  utterancesRepo = "boydj/blog"
+  utterancesTheme = "github-light"
+  utterancesIssueTerm="pathname"
+  description = ""
+  mailchimp = ""
+  mailprotect = ""
+
+[params.index]
+  alertbar = false
+
+[params.author]
+  name = "josh boyd"
+  thumbnail = "/images/josh-boyd.jpg"
+  description = "creator of this blog"
+
+[params.social]
   github = "boydj"
   twitter = "joshboyd"
   linkedin = "joshuaboyd"
-  theme_colors = "default-dark"
-  utterancesRepo = "boydj/blog"
-  utterancesTheme = "github-dark"
-  utterancesIssueTerm="pathname"
