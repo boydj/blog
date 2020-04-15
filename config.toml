@@ -1,0 +1,15 @@
+languageCode = "en-us"
+title = "jdb's technical notes"
+theme = "hugo-dusk"
+
+[author]
+  name = "Josh Boyd"
+
+[params]
+  github = "boydj"
+  twitter = "joshboyd"
+  linkedin = "joshuaboyd"
+  theme_colors = "default-dark"
+  utterancesRepo = "boydj/blog"
+  utterancesTheme = "github-dark"
+  utterancesIssueTerm="pathname"
