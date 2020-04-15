@@ -2,6 +2,7 @@ languageCode = "en-us"
 title = "jdb's technical notes"
 theme = "hugo-dusk"
 baseURL = "https://boydj.github.io/blog/"
+canonifyURLS = true
 
 [author]
   name = "Josh Boyd"
