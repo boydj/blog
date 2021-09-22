@@ -13,6 +13,7 @@ comments: true
 ---
 
 Quantity | Part number | Description | Name | Cost
+--- | --- | --- | --- | ---
 1 | | | [Mega Monster Upright 49" 4 Player Kit](https://www.monsterarcades.com/copy-of-pedestal-arcade-4-player-ki) | $925.00
 1 | CSF01LAR | Large | Flyweight for SpinTrak | $10.00
 40 | CGLRGB | | GoldLeaf RGB Illuminated Pushbuttons | $5.50
