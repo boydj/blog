@@ -8,6 +8,8 @@ lastmod: '2021-09-22T17:03:00.975Z'
 draft: false
 tags: []
 categories: []
+type: post
+comments: true
 ---
 
 Quantity | Part number | Description | Name | Cost
