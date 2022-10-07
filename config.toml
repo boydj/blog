@@ -8,7 +8,7 @@ summaryLength = 25
 copyright = "josh boyd - all rights reserved"
 description = "my notes and ramblings on technical topics i don't want to forget about"
 disqusShortname = ""
-googleAnalytics = ""
+googleAnalytics = "G-P4HL3JMC9G"
 
 [params]
   utterancesRepo = "boydj/blog"
