@@ -1,1 +1,1 @@
-![github pages](https://github.com/boydj/blog/workflows/github%20pages/badge.svg)
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/{boydj}/{blog}/badge)](https://api.securityscorecards.dev/projects/github.com/{boydj}/{blog}) ![github pages](https://github.com/boydj/blog/workflows/github%20pages/badge.svg)
